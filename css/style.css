@@ -746,6 +746,12 @@ body {
 	}
 }
 
+@media (max-width: 425px) {
+	.catalog__item {
+		width: 395px;
+	}
+}
+
 @media (max-width: 414px) {
 	.submenu__list {
     	margin-left: -4px;
